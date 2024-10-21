@@ -1,5 +1,9 @@
 ## 반갑습니다. 👋
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{thingineeer}"/>
+</a>
+
 ## Projects
 - **pumpWater** (2024.08.20~22) [ [github](https://github.com/thingineeer/pumpWater-iOS) / [AppStore](https://apps.apple.com/us/app/pumpwater-%EB%AC%BC-%EB%B9%BC%EA%B8%B0-%EC%95%B1/id6642699369) ]
 - **Terning** (2024.06 ~ 현재) [ [github](https://github.com/teamterning/Terning-iOS) / [AppStore](https://apps.apple.com/kr/app/terning-%ED%84%B0%EB%8B%9D-%EB%8C%80%ED%95%99%EC%83%9D-%EC%9D%B8%ED%84%B4-%EA%B3%B5%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EC%BA%98%EB%A6%B0%EB%8D%94/id6547866420) ]
