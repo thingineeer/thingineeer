@@ -4,8 +4,6 @@
   <img src="https://render.gitanimals.org/farms/{thingineeer}"/>
 </a>
 
-## Career
-
 ### [i-sens](https://i-sens.co.kr/) (케어센스 에어)
 - iOS 클라이언트 개발  
 - 2025.04.28 ~
