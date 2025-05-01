@@ -4,6 +4,17 @@
   <img src="https://render.gitanimals.org/farms/{thingineeer}"/>
 </a>
 
+## Career
+
+### [i-sens](https://i-sens.co.kr/) (케어센스 에어)
+- iOS 클라이언트 개발  
+- 2025.04.28 ~
+
+### [runningPoint](http://runpoint.co.kr/) (랭킹 마라톤)
+- iOS 클라이언트 개발  
+- 2025.03.26 ~ 2025.04.25
+
+
 ## iOS Projects
 - **Spoony** (2024.01 ~ 현재) [ [github](https://github.com/SOPT-all/35-APPJAM-iOS-SPOONY) ]
 - **Terning** (2024.06 ~ 현재) [ [github](https://github.com/teamterning/Terning-iOS) / [AppStore](https://apps.apple.com/kr/app/terning-%ED%84%B0%EB%8B%9D-%EB%8C%80%ED%95%99%EC%83%9D-%EC%9D%B8%ED%84%B4-%EA%B3%B5%EA%B3%A0-%EA%B4%80%EB%A6%AC-%EC%BA%98%EB%A6%B0%EB%8D%94/id6547866420) ]
