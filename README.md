@@ -1,5 +1,3 @@
-## Work Experience
-
 ### [i-sens](https://i-sens.co.kr/)
 - iOS App Developer  
 - 2025.04.28 ~ Present
@@ -8,9 +6,13 @@
 - iOS App Developer  
 - 2025.03.26 ~ 2025.04.25
 
+### [SOPT](https://www.sopt.org/about)
+- 37th iOS Leader (25.09 ~ 26.02)
+- 34th iOS YB (24.03 ~ 24.09)
+
 ## iOS Projects
 
-- **Spoony**  
+- **Spoony**
   [github](https://github.com/SOPT-all/35-APPJAM-iOS-SPOONY) ｜ [AppStore](https://apps.apple.com/kr/app/spoony/id6744865582)
 
 - **Terning**  
@@ -18,6 +20,8 @@
 
 - **Runnect**  
   [github](https://github.com/Runnect/Runnect-iOS) ｜ [AppStore](https://apps.apple.com/kr/app/runnect-%EC%BD%94%EC%8A%A4%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%9F%AC%EB%8B%9D%EC%95%B1/id1663884202)
+
+---
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{thingineeer}"/>
