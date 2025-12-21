@@ -6,7 +6,7 @@
 - iOS App Developer  
 - 2025.03.26 ~ 2025.04.25
 
-### [SOPT](https://www.sopt.org/about)
+### [SOPT(연합동아리)](https://www.sopt.org/about)
 - 37th iOS Leader (25.09 ~ 26.02)
 - 34th iOS YB (24.03 ~ 24.09)
 
