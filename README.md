@@ -7,8 +7,8 @@
 - 2025.03.26 ~ 2025.04.25
 
 ### [SOPT(연합동아리)](https://www.sopt.org/about)
-- 37th iOS Leader (25.09 ~ 26.02)
-- 34th iOS YB (24.03 ~ 24.09)
+- 37th iOS Leader (2025.08 ~ 2026.01)
+- 34th iOS YB (2024.03 ~ 2024.09)
 
 ## iOS Projects
 
