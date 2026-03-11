@@ -28,7 +28,7 @@
 
   [GitHub](https://github.com/teamterning/Terning-iOS) ｜ 서비스 종료
 
-- **pumpWater** (iOS, iPadOS) — 스피커 물 빼기 유틸리티
+- **pumpWater** (iOS, iPadOS) — 아이폰 물빼기 앱
 
   [GitHub](https://github.com/thingineeer/pumpWater-iOS) ｜ [App Store](https://apps.apple.com/kr/app/pumpwater-%EB%AC%BC-%EB%B9%BC%EA%B8%B0-%EC%95%B1/id6642699369)
 
