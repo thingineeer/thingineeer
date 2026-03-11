@@ -8,10 +8,6 @@
 
 ## App
 
-- **CareSens Air** (iOS, watchOS) — 글로벌 25만 사용자 CGM 앱
-
-  private ｜ [App Store](https://apps.apple.com/app/caresens-air/id1605701892)
-
 - **공포지수** (iOS, watchOS, Widget) — VIX 공포·탐욕 지수 트래커
 
   private ｜ [App Store](https://apps.apple.com/kr/app/%EA%B3%B5%ED%8F%AC%EC%A7%80%EC%88%98/id6758426458)
@@ -28,7 +24,7 @@
 
   [GitHub](https://github.com/spooooony/35-APPJAM-iOS-SPOONY) ｜ [App Store](https://apps.apple.com/kr/app/spoony/id6744865582)
 
-- **Terning** (iOS) — 대학생 인턴 매칭
+- **Terning** (iOS) — 대학생 인턴 공고 추천
 
   [GitHub](https://github.com/teamterning/Terning-iOS) ｜ 서비스 종료
 
@@ -44,7 +40,7 @@
 
 - **연봉 계산기** — 실수령액 계산, 126개 SSG 페이지
 
-  private ｜ [Live](https://www.salary-calc.kr)
+  [GitHub](https://github.com/thingineeer/salary-calculator) ｜ [Live](https://www.salary-calc.kr)
 
 - **BTC 자동매매** — AI + 딥러닝 비트코인 트레이딩 봇
 
