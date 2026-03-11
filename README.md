@@ -16,7 +16,7 @@
 
   private ｜ [App Store](https://apps.apple.com/kr/app/cozyday-%EC%BB%A4%ED%94%8C-%EB%94%94%EB%8D%B0%EC%9D%B4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6759999189)
 
-- **Runnect** (iOS, watchOS) — 러닝 코스 드로잉 앱
+- **Runnect** (iOS, watchOS) — 코스를 그리고 공유하는 러닝 앱
 
   [GitHub](https://github.com/Runnect/Runnect-iOS) ｜ [App Store](https://apps.apple.com/kr/app/runnect-%EC%BD%94%EC%8A%A4%EB%A5%BC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EB%9F%AC%EB%8B%9D%EC%95%B1/id1663884202)
 
