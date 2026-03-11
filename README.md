@@ -42,9 +42,7 @@
 
   [GitHub](https://github.com/thingineeer/salary-calculator) ｜ [Live](https://www.salary-calc.kr)
 
-- **BTC 자동매매** — AI + 딥러닝 비트코인 트레이딩 봇
 
-  private ｜ [Live Dashboard](http://3.34.112.198:8501)
 
 ---
 
