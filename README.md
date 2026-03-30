@@ -40,7 +40,7 @@
 
 - **연봉 계산기** — 실수령액 계산, 126개 SSG 페이지
 
-  [GitHub](https://github.com/thingineeer/salary-calculator) ｜ [Live](https://www.salary-calc.kr)
+  private ｜ [Live](https://www.salary-calc.kr)
 
 
 
