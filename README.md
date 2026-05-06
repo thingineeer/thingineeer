@@ -8,11 +8,11 @@
 
 ## App
 
-- **공포지수** (iOS, watchOS, Widget) — VIX 공포·탐욕 지수 트래커
+- **공포지수** (iOS, watchOS, iPadOS, MacOS, Widget) - VIX 변동성 알림
 
   private ｜ [App Store](https://apps.apple.com/kr/app/%EA%B3%B5%ED%8F%AC%EC%A7%80%EC%88%98/id6758426458)
 
-- **CozyDay** (iOS) — 커플 디데이 앱, 40개국 다국어
+- **CozyDay** (iOS) — 커플 디데이 앱
 
   private ｜ [App Store](https://apps.apple.com/kr/app/cozyday-%EC%BB%A4%ED%94%8C-%EB%94%94%EB%8D%B0%EC%9D%B4-%EA%B3%84%EC%82%B0%EA%B8%B0/id6759999189)
 
@@ -34,11 +34,11 @@
 
 ## Web
 
-- **스노우볼** — 배당 투자 시뮬레이터, FIRE 은퇴 예측
+- **스노우볼** — 배당 투자 시뮬레이터
 
   private ｜ [Live](https://mysnowball.kr)
 
-- **연봉 계산기** — 실수령액 계산, 126개 SSG 페이지
+- **계산기** — 실수령액 및 생활 계산기
 
   private ｜ [Live](https://www.salary-calc.kr)
 
