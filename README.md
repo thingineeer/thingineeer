@@ -10,7 +10,7 @@
 
 - **공포지수** (iOS, watchOS, iPadOS, MacOS, Widget) - VIX 변동성 알림
 
-  private ｜ [App Store](https://apps.apple.com/kr/app/%EA%B3%B5%ED%8F%AC%EC%A7%80%EC%88%98/id6758426458)
+  private ｜ [App Store](https://apps.apple.com/kr/app/%EA%B3%B5%ED%8F%AC%EC%A7%80%EC%88%98/id6758426458) | [Google Play](https://play.google.com/store/apps/details?id=th1ngjin.fearindex)
 
 - **CozyDay** (iOS) — 커플 디데이 앱
 
